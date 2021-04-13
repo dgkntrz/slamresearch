@@ -18,12 +18,11 @@ Storage: Toshiba 1TB 5400 RPM HDD
 
 ### scripts
 
-This folder consists of scripts I have used to refine the output files I get from the algorithms, since not all algorithms
-provide us an output that would work on evaluation tool.
+This folder consists of scripts that are used to refine the output files created from the algorithms, since not all algorithms provide an output that would work on evaluation tool.
 
 ### output
 
-This folder consists of all the converted output data I got from algorithms. 
+This folder consists of all the converted output data created from algorithms. 
 
 ### graphs
 
