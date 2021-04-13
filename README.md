@@ -1,5 +1,7 @@
 # slamresearch: A Comparative Study on Slam Algorithms
 
+## Introduction
+
 ### What is this repository?
 
 This repository provides a comparative study on various SLAM algorithms in terms of performance and accuracy.
@@ -13,6 +15,22 @@ Graphics: GTX860M
 Processor: Intel Core i7 4700HQ
 
 Storage: Toshiba 1TB 5400 RPM HDD
+
+### Algorithms
+
+Algorithms used for this research are currently:
+
+ORB_SLAM2: https://github.com/raulmur/ORB_SLAM2
+
+ORB_SLAM3: https://github.com/UZ-SLAMLab/ORB_SLAM3
+
+DSO: https://github.com/JakobEngel/dso
+
+LDSO: https://github.com/tum-vision/LDSO
+
+OKVIS: https://github.com/ethz-asl/okvis
+
+BASALT: https://github.com/VladyslavUsenko/basalt-mirror
 
 ## Folders
 
