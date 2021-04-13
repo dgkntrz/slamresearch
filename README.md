@@ -40,7 +40,7 @@ This folder consists of scripts that are used to refine the output files created
 
 ### output
 
-This folder consists of all the converted output data created from algorithms. 
+This folder consists of all the output data created from algorithms. 
 
 ### graphs
 
