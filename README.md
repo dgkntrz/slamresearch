@@ -3,7 +3,14 @@
 ## What is this repository?
 
 This repository provides us a comparative study on various SLAM algorithms in terms of performance and accuracy.
-All the algorithms are tested under Ubuntu 18.04 LTS.
+
+## System
+
+All the algorithms are tested under Ubuntu 18.04 LTS. Computer specifications are:
+
+Graphics: GTX860M
+Processor: Intel Core i7 4700HQ
+Storage: Toshiba 1TB 5400 RPM HDD
 
 ## scripts
 
