@@ -32,6 +32,8 @@ OKVIS: https://github.com/ethz-asl/okvis
 
 BASALT: https://github.com/VladyslavUsenko/basalt-mirror
 
+SPTAM: https://github.com/uoip/stereo_ptam
+
 ## Folders
 
 ### scripts
@@ -45,3 +47,9 @@ This folder consists of all the output data created from algorithms.
 ### graphs
 
 This folder consists of drawn graphs of the outputs, relative to the ground truth.
+
+## Datasets
+
+We are aiming to use EuRoC dataset and our own dataset. Check our repository to see how are we aiming to create datasets:
+
+https://github.com/dgkntrz/euroc_dataset_creator
